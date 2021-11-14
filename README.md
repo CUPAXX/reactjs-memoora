@@ -1,6 +1,8 @@
-<h1 align="center">Simple RESTfull API</h1>
+<h1 align="center">Simple React JS App</h1>
 
 Simple Frontend with React JS & Tailwind CSS
+</br></br>
+<a href="https://">View Demo</a>
 
 [More about Express](https://en.wikipedia.org/wiki/Express.js)
 
@@ -14,7 +16,7 @@ Simple Frontend with React JS & Tailwind CSS
 # Showcase
 Login Page | Dashboard 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![Login Page](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/login.png?raw=true)  |  ![Dashboard](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/dashboard.png?raw=true)
+![Login Page](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/login.png)  |  ![Dashboard](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/dashboard.png)
 
 
 # Feature
