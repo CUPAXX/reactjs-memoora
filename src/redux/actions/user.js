@@ -1,5 +1,5 @@
 import { http } from '../../helpers/http'
-const URL = "http://localhost:5000"
+const { REACT_APP_BACKEND_URL: URL } = process.env
 
 
 export const getProfile = (token) => {
