@@ -4,7 +4,6 @@ const URL = "http://localhost:5000"
 
 export const authLogin = (email, password) => {
   return async (dispatch) => {
-    console.log(URL)
     const form = new URLSearchParams()
     form.append('email', email)
     form.append('password', password)

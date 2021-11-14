@@ -28,6 +28,7 @@ class Register extends Component {
         timer: 1500
       })
     })
+    this.props.history.push('/login')
   }
   render() {
     const {data} = this.props.country

@@ -25,7 +25,6 @@ class Login extends Component {
     })
   }
   render() {
-    console.log(this.state)
     return (
       <div className="bg-gray-300 flex justify-center items-center h-screen">
         <div className="bg-white flex flex-col justify-center items-center gap-4 py-10 px-10 rounded-xl shadow-2xl md:w-4/12 w-8/12">
