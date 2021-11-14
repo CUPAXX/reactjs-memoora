@@ -2,9 +2,7 @@
 
 Simple Frontend with React JS & Tailwind CSS
 </br></br>
-<a href="https://">View Demo</a>
-
-[More about Express](https://en.wikipedia.org/wiki/Express.js)
+<a href="https://reactjs-memoora.netlify.app">View Demo</a>
 
 
 ## Built With
@@ -16,7 +14,7 @@ Simple Frontend with React JS & Tailwind CSS
 # Showcase
 Login Page | Dashboard 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![Login Page](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/login.png)  |  ![Dashboard](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/dashboard.png)
+![Login Page](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/login.png?size=200)  |  ![Dashboard](https://github.com/CUPAXX/reactjs-memoora/blob/master/screenshot/dashboard.png?size=200)
 
 
 # Feature
